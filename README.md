@@ -1,10 +1,10 @@
 ### Hi there, I'm Samuel 👋
 
 ---
-
+<div>
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=samuelEllertson&show_icons=true&hide_border=true&hide=issues&theme=monokai" />
-
-<br />
+</div>
+---
 
 ## Showcased Repositories
 
